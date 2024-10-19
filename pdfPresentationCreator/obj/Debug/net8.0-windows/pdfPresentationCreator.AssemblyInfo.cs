@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("pdfPresentationCreator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+33bf17d3fe43f5e4e6db681a1c571b63f8d3e0bf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+45465303a1ebf93adcb7bdf466f6c05a45a8af03")]
 [assembly: System.Reflection.AssemblyProductAttribute("pdfPresentationCreator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("pdfPresentationCreator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

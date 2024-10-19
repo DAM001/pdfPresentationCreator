@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{98528D0E-A0A9-4471-A1A0-0BEDB07A3048}|pdfPresentationCreator.csproj|c:\\programming\\cs\\lesson18\\pdfpresentationcreator\\pdfpresentationcreator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{98528D0E-A0A9-4471-A1A0-0BEDB07A3048}|pdfPresentationCreator.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98528D0E-A0A9-4471-A1A0-0BEDB07A3048}|pdfPresentationCreator.csproj|c:\\programming\\cs\\lesson18\\pdfpresentationcreator\\pdfpresentationcreator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98528D0E-A0A9-4471-A1A0-0BEDB07A3048}|pdfPresentationCreator.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,16 +18,29 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Programming\\CS\\Lesson18\\pdfPresentationCreator\\pdfPresentationCreator\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Programming\\CS\\Lesson18\\pdfPresentationCreator\\pdfPresentationCreator\\Form1.cs*",
+              "RelativeToolTip": "Form1.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAowB8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T08:47:15.478Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Programming\\CS\\Lesson18\\pdfPresentationCreator\\pdfPresentationCreator\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Programming\\CS\\Lesson18\\pdfPresentationCreator\\pdfPresentationCreator\\Form1.cs [Design]",
-              "RelativeToolTip": "Form1.cs [Design]",
+              "ToolTip": "C:\\Programming\\CS\\Lesson18\\pdfPresentationCreator\\pdfPresentationCreator\\Form1.cs [Design]*",
+              "RelativeToolTip": "Form1.cs [Design]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-19T08:25:13.64Z",
               "EditorCaption": " [Design]"
