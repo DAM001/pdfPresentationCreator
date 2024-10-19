@@ -33,6 +33,10 @@
             editPageButton = new Button();
             deleteButton = new Button();
             pageNameTextBox = new TextBox();
+            pageTypeComboBox = new ComboBox();
+            fileNameTextBox = new TextBox();
+            saveButton = new Button();
+            importButton = new Button();
             SuspendLayout();
             // 
             // pageListBox
@@ -63,6 +67,7 @@
             editPageButton.TabIndex = 2;
             editPageButton.Text = "Edit Page";
             editPageButton.UseVisualStyleBackColor = true;
+            editPageButton.Click += editPageButton_Click;
             // 
             // deleteButton
             // 
@@ -82,11 +87,51 @@
             pageNameTextBox.TabIndex = 4;
             pageNameTextBox.TextChanged += pageNameTextBox_TextChanged;
             // 
+            // pageTypeComboBox
+            // 
+            pageTypeComboBox.FormattingEnabled = true;
+            pageTypeComboBox.Location = new Point(523, 42);
+            pageTypeComboBox.Name = "pageTypeComboBox";
+            pageTypeComboBox.Size = new Size(249, 23);
+            pageTypeComboBox.TabIndex = 5;
+            pageTypeComboBox.SelectedIndexChanged += pageTypeComboBox_SelectedIndexChanged;
+            // 
+            // fileNameTextBox
+            // 
+            fileNameTextBox.Location = new Point(365, 413);
+            fileNameTextBox.Name = "fileNameTextBox";
+            fileNameTextBox.Size = new Size(342, 23);
+            fileNameTextBox.TabIndex = 6;
+            // 
+            // saveButton
+            // 
+            saveButton.Location = new Point(713, 413);
+            saveButton.Name = "saveButton";
+            saveButton.Size = new Size(75, 23);
+            saveButton.TabIndex = 7;
+            saveButton.Text = "Save";
+            saveButton.UseVisualStyleBackColor = true;
+            saveButton.Click += saveButton_Click;
+            // 
+            // importButton
+            // 
+            importButton.Location = new Point(713, 384);
+            importButton.Name = "importButton";
+            importButton.Size = new Size(75, 23);
+            importButton.TabIndex = 8;
+            importButton.Text = "Import";
+            importButton.UseVisualStyleBackColor = true;
+            importButton.Click += importButton_Click;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
+            Controls.Add(importButton);
+            Controls.Add(saveButton);
+            Controls.Add(fileNameTextBox);
+            Controls.Add(pageTypeComboBox);
             Controls.Add(pageNameTextBox);
             Controls.Add(deleteButton);
             Controls.Add(editPageButton);
@@ -105,5 +150,9 @@
         private Button editPageButton;
         private Button deleteButton;
         private TextBox pageNameTextBox;
+        private ComboBox pageTypeComboBox;
+        private TextBox fileNameTextBox;
+        private Button saveButton;
+        private Button importButton;
     }
 }

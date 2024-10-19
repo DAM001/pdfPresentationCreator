@@ -7,49 +7,178 @@
       "RelativeMoniker": "D:0:0:{98528D0E-A0A9-4471-A1A0-0BEDB07A3048}|pdfPresentationCreator.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{98528D0E-A0A9-4471-A1A0-0BEDB07A3048}|pdfPresentationCreator.csproj|c:\\programming\\cs\\lesson18\\pdfpresentationcreator\\pdfpresentationcreator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{98528D0E-A0A9-4471-A1A0-0BEDB07A3048}|pdfPresentationCreator.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{98528D0E-A0A9-4471-A1A0-0BEDB07A3048}|pdfPresentationCreator.csproj|c:\\programming\\cs\\lesson18\\pdfpresentationcreator\\pdfpresentationcreator\\page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{98528D0E-A0A9-4471-A1A0-0BEDB07A3048}|pdfPresentationCreator.csproj|solutionrelative:page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{98528D0E-A0A9-4471-A1A0-0BEDB07A3048}|pdfPresentationCreator.csproj|c:\\programming\\cs\\lesson18\\pdfpresentationcreator\\pdfpresentationcreator\\pagemainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98528D0E-A0A9-4471-A1A0-0BEDB07A3048}|pdfPresentationCreator.csproj|solutionrelative:pagemainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98528D0E-A0A9-4471-A1A0-0BEDB07A3048}|pdfPresentationCreator.csproj|c:\\programming\\cs\\lesson18\\pdfpresentationcreator\\pdfpresentationcreator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{98528D0E-A0A9-4471-A1A0-0BEDB07A3048}|pdfPresentationCreator.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98528D0E-A0A9-4471-A1A0-0BEDB07A3048}|pdfPresentationCreator.csproj|c:\\programming\\cs\\lesson18\\pdfpresentationcreator\\pdfpresentationcreator\\pageinfoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98528D0E-A0A9-4471-A1A0-0BEDB07A3048}|pdfPresentationCreator.csproj|solutionrelative:pageinfoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98528D0E-A0A9-4471-A1A0-0BEDB07A3048}|pdfPresentationCreator.csproj|c:\\programming\\cs\\lesson18\\pdfpresentationcreator\\pdfpresentationcreator\\pagetopicform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98528D0E-A0A9-4471-A1A0-0BEDB07A3048}|pdfPresentationCreator.csproj|solutionrelative:pagetopicform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98528D0E-A0A9-4471-A1A0-0BEDB07A3048}|pdfPresentationCreator.csproj|c:\\programming\\cs\\lesson18\\pdfpresentationcreator\\pdfpresentationcreator\\pagetopic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98528D0E-A0A9-4471-A1A0-0BEDB07A3048}|pdfPresentationCreator.csproj|solutionrelative:pagetopic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{98528D0E-A0A9-4471-A1A0-0BEDB07A3048}|pdfPresentationCreator.csproj|c:\\programming\\cs\\lesson18\\pdfpresentationcreator\\pdfpresentationcreator\\pagemain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{98528D0E-A0A9-4471-A1A0-0BEDB07A3048}|pdfPresentationCreator.csproj|solutionrelative:pagemain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98528D0E-A0A9-4471-A1A0-0BEDB07A3048}|pdfPresentationCreator.csproj|C:\\Programming\\CS\\Lesson18\\pdfPresentationCreator\\pdfPresentationCreator\\pageinfoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{98528D0E-A0A9-4471-A1A0-0BEDB07A3048}|pdfPresentationCreator.csproj|solutionrelative:pageinfoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98528D0E-A0A9-4471-A1A0-0BEDB07A3048}|pdfPresentationCreator.csproj|C:\\Programming\\CS\\Lesson18\\pdfPresentationCreator\\pdfPresentationCreator\\pagetopicform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{98528D0E-A0A9-4471-A1A0-0BEDB07A3048}|pdfPresentationCreator.csproj|solutionrelative:pagetopicform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98528D0E-A0A9-4471-A1A0-0BEDB07A3048}|pdfPresentationCreator.csproj|C:\\Programming\\CS\\Lesson18\\pdfPresentationCreator\\pdfPresentationCreator\\pagemainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{98528D0E-A0A9-4471-A1A0-0BEDB07A3048}|pdfPresentationCreator.csproj|solutionrelative:pagemainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98528D0E-A0A9-4471-A1A0-0BEDB07A3048}|pdfPresentationCreator.csproj|c:\\programming\\cs\\lesson18\\pdfpresentationcreator\\pdfpresentationcreator\\pageinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98528D0E-A0A9-4471-A1A0-0BEDB07A3048}|pdfPresentationCreator.csproj|solutionrelative:pageinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
-      "VerticalTabListWidth": 256,
+      "VerticalTabListWidth": 257,
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
+              "Title": "PageInfoForm.cs",
+              "DocumentMoniker": "C:\\Programming\\CS\\Lesson18\\pdfPresentationCreator\\pdfPresentationCreator\\PageInfoForm.cs",
+              "RelativeDocumentMoniker": "PageInfoForm.cs",
+              "ToolTip": "C:\\Programming\\CS\\Lesson18\\pdfPresentationCreator\\pdfPresentationCreator\\PageInfoForm.cs",
+              "RelativeToolTip": "PageInfoForm.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAxwEYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T11:00:02.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PageInfoForm.cs [Design]",
+              "DocumentMoniker": "C:\\Programming\\CS\\Lesson18\\pdfPresentationCreator\\pdfPresentationCreator\\PageInfoForm.cs",
+              "RelativeDocumentMoniker": "PageInfoForm.cs",
+              "ToolTip": "C:\\Programming\\CS\\Lesson18\\pdfPresentationCreator\\pdfPresentationCreator\\PageInfoForm.cs [Design]",
+              "RelativeToolTip": "PageInfoForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T10:58:56.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PageInfo.cs",
+              "DocumentMoniker": "C:\\Programming\\CS\\Lesson18\\pdfPresentationCreator\\pdfPresentationCreator\\PageInfo.cs",
+              "RelativeDocumentMoniker": "PageInfo.cs",
+              "ToolTip": "C:\\Programming\\CS\\Lesson18\\pdfPresentationCreator\\pdfPresentationCreator\\PageInfo.cs",
+              "RelativeToolTip": "PageInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T10:57:56.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PageTopic.cs",
+              "DocumentMoniker": "C:\\Programming\\CS\\Lesson18\\pdfPresentationCreator\\pdfPresentationCreator\\PageTopic.cs",
+              "RelativeDocumentMoniker": "PageTopic.cs",
+              "ToolTip": "C:\\Programming\\CS\\Lesson18\\pdfPresentationCreator\\pdfPresentationCreator\\PageTopic.cs",
+              "RelativeToolTip": "PageTopic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T10:10:00.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PageTopicForm.cs",
+              "DocumentMoniker": "C:\\Programming\\CS\\Lesson18\\pdfPresentationCreator\\pdfPresentationCreator\\PageTopicForm.cs",
+              "RelativeDocumentMoniker": "PageTopicForm.cs",
+              "ToolTip": "C:\\Programming\\CS\\Lesson18\\pdfPresentationCreator\\pdfPresentationCreator\\PageTopicForm.cs",
+              "RelativeToolTip": "PageTopicForm.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAgwEcAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T10:08:48.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PageTopicForm.cs [Design]",
+              "DocumentMoniker": "C:\\Programming\\CS\\Lesson18\\pdfPresentationCreator\\pdfPresentationCreator\\PageTopicForm.cs",
+              "RelativeDocumentMoniker": "PageTopicForm.cs",
+              "ToolTip": "C:\\Programming\\CS\\Lesson18\\pdfPresentationCreator\\pdfPresentationCreator\\PageTopicForm.cs [Design]",
+              "RelativeToolTip": "PageTopicForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T10:08:10.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PageMainForm.cs",
+              "DocumentMoniker": "C:\\Programming\\CS\\Lesson18\\pdfPresentationCreator\\pdfPresentationCreator\\PageMainForm.cs",
+              "RelativeDocumentMoniker": "PageMainForm.cs",
+              "ToolTip": "C:\\Programming\\CS\\Lesson18\\pdfPresentationCreator\\pdfPresentationCreator\\PageMainForm.cs",
+              "RelativeToolTip": "PageMainForm.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAADwv0YAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T09:39:03.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PageMainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Programming\\CS\\Lesson18\\pdfPresentationCreator\\pdfPresentationCreator\\PageMainForm.cs",
+              "RelativeDocumentMoniker": "PageMainForm.cs",
+              "ToolTip": "C:\\Programming\\CS\\Lesson18\\pdfPresentationCreator\\pdfPresentationCreator\\PageMainForm.cs [Design]",
+              "RelativeToolTip": "PageMainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T09:37:44.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "PageMain.cs",
               "DocumentMoniker": "C:\\Programming\\CS\\Lesson18\\pdfPresentationCreator\\pdfPresentationCreator\\PageMain.cs",
               "RelativeDocumentMoniker": "PageMain.cs",
               "ToolTip": "C:\\Programming\\CS\\Lesson18\\pdfPresentationCreator\\pdfPresentationCreator\\PageMain.cs",
               "RelativeToolTip": "PageMain.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-19T09:13:04.349Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Page.cs",
               "DocumentMoniker": "C:\\Programming\\CS\\Lesson18\\pdfPresentationCreator\\pdfPresentationCreator\\Page.cs",
               "RelativeDocumentMoniker": "Page.cs",
               "ToolTip": "C:\\Programming\\CS\\Lesson18\\pdfPresentationCreator\\pdfPresentationCreator\\Page.cs",
               "RelativeToolTip": "Page.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAQwEAAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-19T09:07:32.234Z",
               "EditorCaption": ""
@@ -62,14 +191,14 @@
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "C:\\Programming\\CS\\Lesson18\\pdfPresentationCreator\\pdfPresentationCreator\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAzwCoAAABQAAAAAAAAAA==",
+              "ViewState": "AgIAAF0AAAAAAAAAAAA2wGoAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-19T08:47:15.478Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Programming\\CS\\Lesson18\\pdfPresentationCreator\\pdfPresentationCreator\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
